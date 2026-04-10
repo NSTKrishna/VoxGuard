@@ -14,6 +14,7 @@ VoxGuard's `env-guardian` is a powerful, visually stunning CLI tool designed to 
 ## 🚀 Installation
 
 1. Clone the repository and navigate to the directory:
+
    ```bash
    cd /path/to/VoxGuard/env-guardian
    ```
@@ -47,12 +48,12 @@ node index.js
 ### Example Output
 
 ```text
- __     __                  ____                              _ 
+ __     __                  ____                              _
  \ \   / /   ___   __  __  / ___|  _   _    __ _   _ __    __| |
   \ \ / /   / _ \  \ \/ / | |  _  | | | |  / _` | | '__|  / _` |
    \ V /   | (_) |  >  <  | |_| | | |_| | | (_| | | |    | (_| |
     \_/     \___/  /_/\_\  \____|  \__,_|  \__,_| |_|     \__,_|
-                                                                
+
    ╔════════════════════════════════════════════════════════════╗
    ║                                                            ║
    ║   🔐 Advanced Environment Secrets Scanner & AI Validator   ║
@@ -78,6 +79,7 @@ node index.js
 ```
 
 ## 🛠️ Supported Integrations
+
 - [OpenAI](https://openai.com/)
 - [Gemini](https://deepmind.google/technologies/gemini/)
 - [Groq AI](https://groq.com/)
@@ -85,4 +87,5 @@ node index.js
 - [Stripe](https://stripe.com/)
 
 ---
-*Disclaimer: This tool is intended for educational and security research purposes. Ensure you have authorization before performing broad scans.*
+
+_Disclaimer: This tool is intended for educational and security research purposes. Ensure you have authorization before performing broad scans._
